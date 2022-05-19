@@ -20,6 +20,8 @@
   </div>
 </template>
 
+// test comment
+
 <script>
 // @ is an alias to /src
 import { reactive, toRefs, computed } from "vue";
